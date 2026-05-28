@@ -1,0 +1,2 @@
+# Science-Component-Encyclopedia-Interactive-Simulator-App.
+An interactive Python desktop app combining a science encyclopedia with a digital sandbox. It bridges textbook theory and practical simulation, letting users explore component properties across Chemistry, Electricity, and Physics. Built with Tkinter and structured databases, it features an interactive engine for chemical and circuit simulations.
